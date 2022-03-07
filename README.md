@@ -3,6 +3,8 @@ This is tutorial based project i have created using python pygame module
 you may have played this game in your childhood.
 
 # this is little glimse of game
+![image](https://user-images.githubusercontent.com/86558585/157081907-f532ab0b-6c05-464e-b7af-18104eb9c9e4.png)
+
 
 
 functionality of the game is less now but i am still working on it.
